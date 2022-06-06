@@ -1,2 +1,11 @@
-CSE Homeworks
-MSU
+MSU CSE Homeworks
+
+*CSE 231 
+
+*CSE 232
+
+*CSE 320
+
+*CSE 331
+
+*CSE 335
