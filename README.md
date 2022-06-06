@@ -1,2 +1,2 @@
-# CSE Homeworks
-# MSU
+CSE Homeworks
+MSU
